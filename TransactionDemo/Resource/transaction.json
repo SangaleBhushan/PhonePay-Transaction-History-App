@@ -1,0 +1,128 @@
+{
+  "page": 1,
+  "pageSize": 10,
+  "totalPages": 12,
+  "totalCount": 118,
+  "transactions": [
+    {
+      "id": "T240811001",
+      "name": "Swiggy Instamart",
+      "type": "DEBIT",
+      "amount": 342,
+      "currency": "INR",
+      "status": "SUCCESS",
+      "note": "Groceries",
+      "instrument": "UPI",
+      "timestamp": "2024-08-11T20:24:00+05:30",
+      "avatarUrl": "https://www.google.com/s2/favicons?domain=swiggy.com&sz=128"
+    },
+    {
+      "id": "T240811002",
+      "name": "Nishi Jio",
+      "type": "CREDIT",
+      "amount": 1200,
+      "currency": "INR",
+      "status": "SUCCESS",
+      "note": "Dinner split settlement",
+      "instrument": "UPI",
+      "timestamp": "2024-08-11T18:05:12+05:30",
+      "avatarUrl": "https://i.pravatar.cc/150?img=45"
+    },
+    {
+      "id": "T240811003",
+      "name": "BESCOM Electricity",
+      "type": "DEBIT",
+      "amount": 1875.5,
+      "currency": "INR",
+      "status": "PENDING",
+      "note": "Electricity bill - August",
+      "instrument": "UPI",
+      "timestamp": "2024-08-11T13:41:33+05:30",
+      "avatarUrl": "https://www.google.com/s2/favicons?domain=amazon.in&sz=128"
+    },
+    {
+      "id": "T240811004",
+      "name": "Amazon.in",
+      "type": "DEBIT",
+      "amount": 2499,
+      "currency": "INR",
+      "status": "FAILED",
+      "note": "Order #402-7719245",
+      "instrument": "CARD",
+      "timestamp": "2024-08-11T11:12:07+05:30",
+      "avatarUrl": "https://www.google.com/s2/favicons?domain=amazon.in&sz=128"
+    },
+    {
+      "id": "T240810007",
+      "name": "Rahul Verma",
+      "type": "CREDIT",
+      "amount": 500,
+      "currency": "INR",
+      "status": "SUCCESS",
+      "note": "Movie tickets",
+      "instrument": "UPI",
+      "timestamp": "2024-08-10T22:57:41+05:30",
+      "avatarUrl": "https://i.pravatar.cc/150?img=13"
+    },
+    {
+      "id": "T240810005",
+      "name": "Airtel Prepaid",
+      "type": "DEBIT",
+      "amount": 299,
+      "currency": "INR",
+      "status": "SUCCESS",
+      "note": "Mobile recharge - 84 days",
+      "instrument": "WALLET",
+      "timestamp": "2024-08-10T16:20:00+05:30",
+      "avatarUrl": "https://www.google.com/s2/favicons?domain=airtel.in&sz=128"
+    },
+    {
+      "id": "T240810003",
+      "name": "Zomato",
+      "type": "DEBIT",
+      "amount": 615,
+      "currency": "INR",
+      "status": "FAILED",
+      "note": "Dinner order",
+      "instrument": "UPI",
+      "timestamp": "2024-08-10T13:48:19+05:30",
+      "avatarUrl": "https://www.google.com/s2/favicons?domain=zomato.com&sz=128"
+    },
+    {
+      "id": "T240809012",
+      "name": "Priya Sharma",
+      "type": "DEBIT",
+      "amount": 250,
+      "currency": "INR",
+      "status": "SUCCESS",
+      "note": "Auto fare",
+      "instrument": "UPI",
+      "timestamp": "2024-08-09T09:15:52+05:30",
+      "avatarUrl": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "T240809004",
+      "name": "Groww - Mutual Fund SIP",
+      "type": "DEBIT",
+      "amount": 5000,
+      "currency": "INR",
+      "status": "PENDING",
+      "note": "Monthly SIP - August",
+      "instrument": "CARD",
+      "timestamp": "2024-08-09T08:00:00+05:30",
+      "avatarUrl": "https://www.google.com/s2/favicons?domain=groww.in&sz=128"
+    },
+    {
+      "id": "T240808009",
+      "name": "Ola Cabs",
+      "type": "DEBIT",
+      "amount": 187,
+      "currency": "INR",
+      "status": "SUCCESS",
+      "note": "Ride to office",
+      "instrument": "WALLET",
+      "timestamp": "2024-08-08T09:34:26+05:30",
+      "avatarUrl": "https://www.google.com/s2/favicons?domain=ola.money&sz=128"
+    }
+  ]
+}
